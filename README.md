@@ -1,6 +1,12 @@
 ## Gabriel Afonso — Backend Developer
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Gabriellafonso&show_icons=true&theme=tokyonight&rank_icon=github)
+<a href="https://github.com/gabriellafonso/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Gabriellafonso&show_icons=true&theme=tokyonight&rank_icon=github"" />
+</a>
+<a href="https://github.com/gabriellafonso/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Gabriellafonso&layout=compact&show_icons=true&theme=tokyonight&langs_count=8&card_width=320" />
+</a>
+
 
 
 <div style="display: inline_block"><br>
